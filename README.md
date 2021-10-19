@@ -1,1 +1,1 @@
-TTT4185 - ML for singnal processing
+TTT4185 - ML for signal processing
